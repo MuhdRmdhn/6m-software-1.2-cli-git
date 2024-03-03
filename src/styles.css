@@ -1,5 +1,18 @@
+/*
+selector{
+    property: value;
+}
+
+id selector - target element with id attribute with #
+class selector - targer element with class attribute with .
+uniersal selector - target all element with *
+element selector - targetsall elements with the same tag ex. p 
+
+measurement in css - px, em, %
+*/
+
 p {
-    background-color: lightblue;
+    background-color: rgb(28, 101, 32);
 }
 
 li {

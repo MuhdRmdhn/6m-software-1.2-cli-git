@@ -1,0 +1,73 @@
+html {
+  background-color: #EADFB4;
+}
+
+body {
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+h1 {
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+  color: #9BB0C1;
+  word-spacing: 10px;
+}
+
+h2 {
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+    color: #51829B;
+    margin-bottom: 0px;
+}
+
+ul{
+    display: inline-block;
+    text-align: left;
+}
+
+li{
+    color: black;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+#intro {
+  text-align: center;
+}
+
+#flag {
+  height: 50px;
+  width: 100px;
+}
+
+#me {
+  height: 200px;
+  width: 200px;
+  padding-bottom: 10px;
+  border-radius: 50%;
+}
+
+#aboutMe {
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 30px;
+
+}
+
+#hobbies {
+    text-align: center;
+}
+
+#footer {
+    background-color: #B5C0D0;
+    text-align: center;
+}
